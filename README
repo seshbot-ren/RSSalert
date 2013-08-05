@@ -1,0 +1,2 @@
+This is a Python project that alerts a CBox user if a new message has been posted. All the CBox user has to do is insert the 
+URL of the RSS feed. This can be found by going to the CBox's quicklink and looking at its source.
